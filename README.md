@@ -1,3 +1,3 @@
 ## The task
 
-Calculate monthly churn and retention rates far any given date
+Calculate jobs monthly churn and retention rates for any given date. 
